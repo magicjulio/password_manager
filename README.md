@@ -1,6 +1,6 @@
 # password_manager
 <p>A simple python password manager that works with key files</p>
-<a href="https://www.youtube.com/watch?v=O8596GPSJV4">Watch tutorial how to code here </a>
+<a target="_blanck" href="https://www.youtube.com/watch?v=O8596GPSJV4">Watch tutorial how to code here </a>
 
 <h2> Setup </h2>
 <ul>
